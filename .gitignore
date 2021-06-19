@@ -1,4 +1,5 @@
 *checkpoint*
 *.csv
-metrics.py
 __pycache__
+my_moduls/*
+data/*
